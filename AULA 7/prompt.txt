@@ -1,0 +1,35 @@
+# CONTEXTO
+Um sistema de análise de dados precisa identificar quais palavras aparecem com mais frequência em avaliações de clientes para entender padrões de comportamento.
+
+# OBJETIVO
+fazer um site que consiga analisar quais palavras aparecem com mais frequencia no texto
+
+# TAREFA
+Conte a frequência das palavras em um texto simples.
+
+# INFORMAÇÕES / DADOS
+prompt costar
+utilizar streamlit
+usar o python
+
+# REGRAS
+Siga estas regras:
+- Priorize clareza e precisão.
+
+
+# ESTILO
+A resposta deve ser:
+- Formal
+- detalhada
+- o site pode ser num estilo mais moderno e sofisticado
+
+# FORMATO DA RESPOSTA
+Entregue o resultado no seguinte formato:
+formato de site que caiba em todos os tipos de tela 
+
+# CRITÉRIOS DE QUALIDADE
+Antes de responder, verifique se:
+1. A tarefa foi cumprida integralmente.
+2. Todas as informações importantes foram consideradas.
+3. O formato solicitado foi respeitado.
+4. Não foram adicionadas informações inventadas.
